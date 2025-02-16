@@ -1,9 +1,5 @@
 # Welcome on my github! 
 
-<br clear="left" />
-<br />
-
-
 <!-- Immagine del profilo con margine a destra -->
 <img 
   align="left" 
@@ -27,7 +23,7 @@
 </p>
 
 
-### Keep in touch
+#### Keep in touch
 <a href="https://x.com/vincenzo_orrei">
   <img align="left" alt="Vincenzo's X" width="22px" src="https://cdn.simpleicons.org/x/ffffff" />
 </a>
