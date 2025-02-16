@@ -19,11 +19,11 @@
 ●   An ML & GenAI freelance data scientist.<br />
 ●   A SQL, Python and AI teacher.<br />
 ●   Always curious and eager to explore and share insights in the AI world. <br />
-●   I'm always endlessy for opportunities. I love to learn and contribute in any and every possible way.<br />
+●   I'm endlessy looking for opportunities. I love to learn and contribute in any and every possible way.<br />
 </p>
 
 
-#### Keep in touch
+### Keep in touch
 <a href="https://x.com/vincenzo_orrei">
   <img align="left" alt="Vincenzo's X" width="18px" src="https://cdn.simpleicons.org/x/ffffff" />
 </a>
