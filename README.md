@@ -25,22 +25,22 @@
 
 #### Keep in touch
 <a href="https://x.com/vincenzo_orrei">
-  <img align="left" alt="Vincenzo's X" width="22px" src="https://cdn.simpleicons.org/x/ffffff" />
+  <img align="left" alt="Vincenzo's X" width="18px" src="https://cdn.simpleicons.org/x/ffffff" />
 </a>
 <a href="https://www.linkedin.com/in/vincenzo-orrei/">
-  <img align="left" alt="Vincenzo's Linkedin" width="22px" src="https://cdn.simpleicons.org/linkedin/ffffff" />
+  <img align="left" alt="Vincenzo's Linkedin" width="18px" src="https://cdn.simpleicons.org/linkedin/ffffff" />
 </a>
 <a href="https://github.com/vincenzorrei">
-  <img align="left" alt="Vincenzo's Github" width="22px" src="https://cdn.simpleicons.org/github/ffffff" />
+  <img align="left" alt="Vincenzo's Github" width="18px" src="https://cdn.simpleicons.org/github/ffffff" />
 </a>
 <a href="https://t.me/VinVincent1">
-  <img align="left" alt="Vincenzo's Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/ffffff" />
+  <img align="left" alt="Vincenzo's Telegram" width="18px" src="https://cdn.simpleicons.org/telegram/ffffff" />
 </a>
 <a href="https://www.instagram.com/vin.orrei/">
-  <img align="left" alt="Vincenzo's Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/ffffff" />
+  <img align="left" alt="Vincenzo's Instagram" width="18px" src="https://cdn.simpleicons.org/instagram/ffffff" />
 </a>
 <a href="https://www.kaggle.com/vincenzoorrei">
-  <img align="left" alt="Vincenzo's Kaggle" width="22px" src="https://cdn.simpleicons.org/kaggle/ffffff" />
+  <img align="left" alt="Vincenzo's Kaggle" width="18px" src="https://cdn.simpleicons.org/kaggle/ffffff" />
 </a>
 
 <br clear="left" />
