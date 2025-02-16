@@ -5,7 +5,7 @@
   align="left" 
   alt="Profile Picture" 
   src="https://github.com/vincenzorrei/vincenzorrei/blob/main/Vincenzo%20Orrei%20-%20Profile%20Picture.JPG" 
-  style="width: 20%; margin-right: 50px;" 
+  style="width: 23%; margin-right: 50px;" 
 />
 
 <!-- Testo a destra dell'immagine -->
