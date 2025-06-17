@@ -28,7 +28,7 @@
   <img align="left" alt="Vincenzo's X" width="18px" src="https://cdn.simpleicons.org/x/ffffff" />
 </a>
 <a href="https://www.linkedin.com/in/vincenzo-orrei/">
-  <img align="left" alt="Vincenzo's Linkedin" width="18px" src="https://cdn.simpleicons.org/linkedin/ffffff" />
+  <img align="left" alt="Vincenzo's LinkedIn" width="18px" src="https://cdn.simpleicons.org/linkedin/ffffff](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/vincenzorrei">
   <img align="left" alt="Vincenzo's Github" width="18px" src="https://cdn.simpleicons.org/github/ffffff" />
